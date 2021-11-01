@@ -1,0 +1,39 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 211 151" width="211" height="151">
+	<title>Expansion</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #424b4e } 
+		.shp1 { fill: #fffae6 } 
+		.shp2 { opacity: 0.2;fill: #000000 } 
+		.shp3 { fill: #1da8b5 } 
+		.shp4 { fill: #0b929f } 
+		.shp5 { fill: #295c6f } 
+		.shp6 { fill: #ffc300 } 
+		.shp7 { fill: #b9d739 } 
+		.shp8 { fill: #fd3a0b } 
+	</style>
+	<g id="Expansion">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="shp0" d="M10.68 115.5L10.68 8.17C10.68 3.8 14.22 0.25 18.59 0.25L191.91 0.25C196.28 0.25 199.82 3.8 199.82 8.17L199.82 115.5L10.68 115.5Z" />
+			<path id="&lt;Path&gt;" class="shp1" d="M18.59 106.58L18.59 7.17L191.91 7.17L191.91 106.58L18.59 106.58Z" />
+			<path id="&lt;Path&gt;" class="shp2" d="M21.23 10.81L191.91 10.81L191.91 8.17L18.59 8.17L18.59 107.58L21.23 107.58L21.23 10.81Z" />
+			<path id="&lt;Path&gt;" class="shp3" d="M210.38 141.89L0.12 141.89L10.68 115.5L199.82 115.5L210.38 141.89Z" />
+			<path id="&lt;Path&gt;" class="shp4" d="M132.08 128.7L105.25 128.7L78.42 128.7L74.02 136.62L105.25 136.62L136.48 136.62L132.08 128.7Z" />
+			<path id="&lt;Path&gt;" class="shp5" d="M197.19 150.25L13.31 150.25C6.02 150.25 0.12 146.51 0.12 141.89L210.38 141.89C210.38 146.51 204.48 150.25 197.19 150.25Z" />
+		</g>
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="shp6" d="M72.19 100.56L58.21 100.56L58.21 84.57L72.19 84.57L72.19 100.56Z" />
+			<path id="&lt;Path&gt;" class="shp7" d="M93.25 100.56L79.28 100.56L79.28 75.39L93.25 75.39L93.25 100.56Z" />
+			<path id="&lt;Path&gt;" class="shp6" d="M114.31 100.56L100.34 100.56L100.34 63.92L114.31 63.92L114.31 100.56Z" />
+			<path id="&lt;Path&gt;" class="shp7" d="M135.38 100.56L121.4 100.56L121.4 54.6L135.38 54.6L135.38 100.56Z" />
+			<path id="&lt;Path&gt;" class="shp6" d="M156.44 100.56L142.47 100.56L142.47 41.21L156.44 41.21L156.44 100.56Z" />
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="shp8" d="M50.69 75.86L49.66 73.91L151.27 19.89L152.3 21.83L50.69 75.86Z" />
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="shp8" d="M149.7 21.97L144.92 19.13L145.01 18.96L153.29 18.04C155.95 17.29 158.62 16.55 161.28 15.81C159.17 17.6 157.07 19.4 154.96 21.19L149.57 27.54L149.39 27.54L149.7 21.97Z" />
+				</g>
+			</g>
+			<path id="&lt;Path&gt;" class="shp0" d="M161.28 101.51L49.23 101.51L49.23 15.81L51.13 15.81L51.13 99.6L161.28 99.6L161.28 101.51Z" />
+		</g>
+	</g>
+</svg>
