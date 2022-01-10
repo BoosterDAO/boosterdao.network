@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://boosterdao.network/
-
-# Sitemaps
-Sitemap: https://boosterdao.network/sitemap.xml
